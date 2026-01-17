@@ -1,0 +1,7 @@
+{
+    "credentials" : {
+        "username": "example",
+        "password": "12345678"
+    },
+    "source_url" : "myweb.com"
+}
