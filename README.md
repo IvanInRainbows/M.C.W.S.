@@ -12,7 +12,7 @@ This repository is provided for educational purposes. Users are responsible for 
 
 # Description
 
-This is a set of Python-based tools that are used to scrape a mysterious webpage that contains courses and course content. The webpage in question did not offer the means to retrieve media content effectively, only manually going though all the media one by one, thus the need for this tool.
+M.C.W.S. (Mysterious Course Web Scraping) is a set of Python-based tools that are used to scrape a mysterious webpage that contains courses and course content. The webpage in question did not offer the means to retrieve media content effectively, only manually going though all the media one by one, thus the need for this tool.
 
 The set of tools are designed to programmatically retrieve metadata and downloadable resources from a web-based content platform using authorized administrator access.
 
